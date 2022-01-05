@@ -1,7 +1,7 @@
 require "rails"
 require "flatpickr-datepicker-rails/version"
 
-module FlatpickrDatePicker
+module FlatpickrDatePickerRails
   module Rails
     if ::Rails.version.to_s < "3.1"
       require "flatpickr-datepicker-rails/railtie"

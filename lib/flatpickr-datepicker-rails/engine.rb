@@ -1,4 +1,4 @@
-module FlatpickrDatePicker
+module FlatpickrDatePickerRails
     module Rails
         class Engine < ::Rails::Engine
         end
