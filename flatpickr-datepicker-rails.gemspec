@@ -7,7 +7,7 @@ Gem::Specification.new do |a|
   a.description = "A simple way to create a datepicker or datetimepicker in rails using library flatpickr."
   a.authors     = ["Ariclene Chimbili"]
   a.email       = 'ariclinis1@gmail.com'
-  a.files       = ["lib/flatpickr-datepicker-rails.rb"]
+  a.files       = ["lib/flatpickr-datepicker-rails.rb","lib/flatpickr-datepicker-rails/version.rb","lib/flatpickr-datepicker-rails/railtie.rb","lib/flatpickr-datepicker-rails/engine.rb"]
   a.homepage    = 'https://github.com/ariclinis/flatpickr-datepicker-rails'
   a.license     = 'MIT'
 end

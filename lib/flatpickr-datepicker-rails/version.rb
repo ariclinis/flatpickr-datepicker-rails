@@ -1,5 +1,3 @@
-module FlatpickrDatePicker
-    module Rails
-      VERSION = "1.0"
-    end
+module FlatpickrDatePickerRails
+    VERSION = '1.0.0'
 end
