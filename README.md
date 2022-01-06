@@ -29,11 +29,10 @@ And in your application.js:
 
 ```js
 //= require flatpickr-datepicker-rails
-
-document.getElementsByClassName("your_class_selector").flatpickr({properties});
-
 ```
-
+```js
+document.getElementsByClassName("your_class_selector").flatpickr({properties});
+```
 ## Exemples
 First you need create a .html.erb file and add the elements with the class_selectors like that:
 ```.html.erb
