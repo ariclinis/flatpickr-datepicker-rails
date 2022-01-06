@@ -1,7 +1,7 @@
 # Flatpickr-datepicker-rails
 
 
-[![Gem Version](https://badge.fury.io/rb/flatpickr.svg)](https://badge.fury.io/rb/flatpickr)
+[![Gem Version](https://badge.fury.io/rb/flatpickr-datepicker-rails.svg)](https://badge.fury.io/rb/flatpickr-datepicker-rails)
 
 [Flatpickr-datepicker-rails](https://github.com/ariclinis/flatpickr-datepicker-rails) is a gem datetimepicker based in flatpickr. This gem packages flatpickr's that can be use in Rails applications.
 
@@ -66,7 +66,9 @@ $(document).ready(function(){
 });
 ```
 ### Results
+![alt text](https://github.com/ariclinis/flatpickr-datepicker-rails/blob/main/date.png?raw=true)
 
+![alt text](https://github.com/ariclinis/flatpickr-datepicker-rails/blob/main/datetime.png?raw=true)
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
