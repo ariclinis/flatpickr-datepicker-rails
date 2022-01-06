@@ -41,9 +41,7 @@ First you need create a .html.erb file and add the elements with the class_selec
 ```
 or if your want a datetime element
 ```.html.erb
-
     <%= f.input :your_date_input, :as => :string, input_html: {class: 'datetime'} %>
-
 ```
 
 In your application.js after installation
