@@ -71,7 +71,7 @@ OR
 ![alt text](https://github.com/ariclinis/flatpickr-datepicker-rails/blob/main/datetime.png?raw=true)
 
 ### More
-You can find more about the properties and another details in official page:
+You can find more about the properties and anothers details in official page:
 https://flatpickr.js.org/examples/
 
 ### Problems
