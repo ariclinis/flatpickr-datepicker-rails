@@ -67,8 +67,16 @@ $(document).ready(function(){
 ```
 ### Results
 ![alt text](https://github.com/ariclinis/flatpickr-datepicker-rails/blob/main/date.png?raw=true)
-
+OR
 ![alt text](https://github.com/ariclinis/flatpickr-datepicker-rails/blob/main/datetime.png?raw=true)
+
+### More
+You can find more about the properties and another details in official page:
+https://flatpickr.js.org/examples/
+
+### Problems
+I don't know why, but for some reason I can't adapt the gem on rails 6.
+I think it's because the folder organization, on rails 6 the javascript folder is not in the assets folder
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
