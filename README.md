@@ -1,5 +1,5 @@
 # Flatpickr-datepicker-rails
-
+<meta name="google-site-verification" content="meIq8mJhWo5h-TV7kOn43DS1-s8O8pt171hJ7DfjDXE" />
 
 [![Gem Version](https://badge.fury.io/rb/flatpickr-datepicker-rails.svg)](https://badge.fury.io/rb/flatpickr-datepicker-rails)
 
