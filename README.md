@@ -37,12 +37,12 @@ document.getElementsByClassName("your_class_selector").flatpickr({properties});
 ## Exemples
 First you need create a .html.erb file and add the elements with the class_selectors like that:
 ```.html.erb
-            <%= f.input :your_date_input, :as => :string, input_html: {class: 'date'} %>          
+    <%= f.input :your_date_input, :as => :string, input_html: {class: 'date'} %>          
 ```
 or if your want a datetime element
 ```.html.erb
 
-<%= f.input :your_date_input, :as => :string, input_html: {class: 'datetime'} %>
+    <%= f.input :your_date_input, :as => :string, input_html: {class: 'datetime'} %>
 
 ```
 
